@@ -1,0 +1,10 @@
+[Core]
+name = errbot-k8s
+module = errbot-k8s
+
+[Documentation]
+description = K8S utilities
+
+[Python]
+version = 3
+
